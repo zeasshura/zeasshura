@@ -1,16 +1,28 @@
-## Hi there 👋
+Привет 👋 Я Azim Ruslanov
 
-<!--
-**zeasshura/zeasshura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student · Data Science / ML
 
-Here are some ideas to get you started:
+Изучаю машинное обучение. Ищу стажировку в DS/ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔧 Стек
+
+Python · pandas · scikit-learn · PyTorch (basics) · SQL · Django · Docker · Git
+
+
+📌 Проекты
+
+
+EUR/USD Volatility Forecast
+Сравнение ARIMA, Ridge/ElasticNet, Random Forest и CatBoost на прогнозе волатильности
+валютной пары — с проверкой гипотезы эффективного рынка и честной валидацией без
+утечек данных (TimeSeriesSplit, хронологический train/test split).
+GameVault
+Full-stack библиотека компьютерных игр: backend на Django, JWT-аутентификация,
+Swagger-документация, Docker, покрытие тестами.
+
+
+
+📫 Контакты
+
+Telegram @raretits · LinkedIn www.linkedin.com/in/azim-ruslanov-a06616319 · rusalnovazim.r@gmail.com
